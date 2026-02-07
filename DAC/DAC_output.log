@@ -1,0 +1,56 @@
+Circuit: * D:\kostas\Electronics\Function Generator Round 2\DAC\DAC_output.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+Gmin = 107.374
+Gmin = 11.5292
+Gmin = 1.23794
+Gmin = 0.132923
+Gmin = 0.0142725
+Gmin = 0.0015325
+Gmin = 0.00016455
+Gmin = 1.76685e-005
+vernier = 0.5
+Gmin = 2.96428e-006
+vernier = 0.666667
+Gmin = 7.61066e-007
+vernier = 0.888888
+vernier = 1
+Gmin = 1.00195e-007
+Gmin = 1.07583e-008
+Gmin = 1.15517e-009
+Gmin = 1.24035e-010
+Gmin = 1.33182e-011
+Gmin = 1.43003e-012
+Gmin = 1.53548e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+.step x=0
+.step x=0.82
+.step x=1.65
+.step x=2.47
+.step x=3.3
+
+Date: Mon Oct 27 21:01:57 2025
+Total elapsed time: 2.547 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 9755
+traniter = 8708
+tranpoints = 4094
+accept = 3103
+rejected = 991
+matrix size = 92
+fillins = 230
+solver = Normal
+Thread vector: 33.4/14.4[5] 12.6/5.9[5] 4.0/2.7[5] 0.4/2.0[1]  2592/500
+Matrix Compiler1: 16.26 KB object code size  4.3/1.6/[0.7]
+Matrix Compiler2: 13.01 KB object code size  2.1/3.8/[1.3]
+
