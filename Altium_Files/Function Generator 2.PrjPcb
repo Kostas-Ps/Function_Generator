@@ -122,8 +122,8 @@ DocumentUniqueId=KKRLXUVC
 [Document5]
 DocumentPath=Interface.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=4
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
@@ -172,6 +172,10 @@ DocumentUniqueId=VSHTGFIF
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Function Generator 2\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Function Generator 2\Move Component(s) Origin To Grid - PCB1.html
 DItemRevisionGUID=
 
 [Configuration1]
